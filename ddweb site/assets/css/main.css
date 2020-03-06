@@ -157,8 +157,10 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #088fd373;
-		color: #000000;
+		/* background-color: #088fd373;
+		color: #000000; */
+		background: rgb(8,142,211);
+		background: linear-gradient(92deg, rgba(8,142,211,1) 0%, rgb(59, 174, 231) 25%, rgb(148, 212, 245) 100%); 
 	}
 
 	body, input, select, textarea {
